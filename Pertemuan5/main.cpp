@@ -13,7 +13,7 @@ int main()
     cout<<"Masukkan jari-jari : ";
     cin>>r;
 
-    luasLing = r*pi;
+    luasLing = r*r*pi;
     cout<<"Luas lingkaran : "<<luasLing;
 
 
