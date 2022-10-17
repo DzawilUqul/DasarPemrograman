@@ -8,7 +8,7 @@ int main()
     int x;
     x=21;
     int y =2;
-    string k = "XL";
+    String k = "XL";
     float z = 185.1;
 
     cout<<"\nUmur Saya = "<< x ;
