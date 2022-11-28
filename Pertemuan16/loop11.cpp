@@ -8,7 +8,7 @@ int main(){
     cin>>batas;
     for(int i=1;i<=batasLoop;i++){
             cout<<i;
-            cout <<" x"<<" 7 = "<<i*batas<<"\n";
+            cout <<" x "<< batas <<" = "<<i*batas<<"\n";
     }
 
     return 0;
